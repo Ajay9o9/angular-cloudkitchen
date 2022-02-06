@@ -4,6 +4,12 @@
     padding: 0;
     margin: 0;
 }
+:root{
+    --primary-color: #3FC060;
+    --secondar-color:#162328;
+}
+
 body{
+    height: 100vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
